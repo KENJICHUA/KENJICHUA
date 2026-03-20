@@ -1,101 +1,62 @@
-Hi, I'm Kenji 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/your-gif-here" alt="My GIF">
+</p>
 
-💻 Software Developer | Systems & Backend Enthusiast
-⚙️ Interested in building scalable systems, backend infrastructure, and low-level applications.
+• Hi, I’m Kenji Chua!
 
-🚀 About Me
+• Currently Learning: Java, C++, and System Design
 
-💡 I enjoy building systems from scratch and understanding how things work internally.
+• Reach Me At: [kenjichua590@gmail.com](mailto:kenjichua590@gmail.com)
 
-🖥️ Experienced with Java, C, C++, JavaScript, and backend development.
+• Pronouns: He/Him
 
-🔐 Interested in secure backend architecture, APIs, and system design.
+• Fun Fact: I debug faster by staring at the code dramatically 😎
 
-🧠 Currently learning more about scalable backend systems and infrastructure.
+---
 
-🛠️ Tech Stack
+# 💻 Tech Stack:
 
-Languages
+### 🧠 Programming Languages
 
 Java
-
 C
-
 C++
-
 JavaScript
-
 SQL
 
-Backend & Web
+### 🌐 Backend & Web
 
 Node.js
-
 REST APIs
-
 Firebase Cloud Messaging (FCM)
-
 SMTP Email Services
 
-Tools & Technologies
+### 🛠️ Tools & Technologies
 
 Git & GitHub
-
 Linux
-
 VS Code
-
 Cisco Networking
-
 Arduino / Microcontrollers
 
-📂 Featured Projects
-💰 Payslip Calculator (C)
+### 🎨 Design
 
-A payroll computation system written in C that calculates employee salary, deductions, and net pay.
+Figma
+Canva
+Adobe Photoshop
+UI/UX Design Principles
+Wireframing & Prototyping
 
-📚 Library Management System (Java)
+---
 
-A system that manages books, users, and borrowing records using object-oriented programming.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KENJICHUA/KENJICHUA/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KENJICHUA/KENJICHUA/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KENJICHUA/KENJICHUA/output/pacman-contribution-graph.svg">
+</picture>
 
-💼 Career Portal (Full-Stack Web App)
+---
 
-A recruitment platform with Applicant and Admin portals.
+[![](https://visitcount.itsvg.in/api?id=KENJICHUA\&icon=0\&color=0)](https://visitcount.itsvg.in)
 
-Features
-
-Applicant login/signup
-
-Resume submission
-
-Job postings per division
-
-Application approval/rejection
-
-Interview scheduling
-
-Real-time notifications
-
-🧾 Expenses Tracker (Java CLI)
-
-A command-line application for managing and summarizing personal expenses.
-
-Features
-
-Add / update / delete expenses
-
-Expense summaries
-
-Data persistence
-
-Planned features: budgeting & CSV export
-
-🎯 Current Focus
-
-Backend architecture
-
-API security
-
-Scalable web applications
-
-System design
+<!-- Replace placeholders like yourusername and your-email@example.com -->
