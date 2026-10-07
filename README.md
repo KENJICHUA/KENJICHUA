@@ -18,15 +18,22 @@
 ```yaml
 name:     Kenji Chua
 role:     CS Student & Software Developer
+
 focus:
+  - Full-Stack Web Development
   - Backend Development & REST APIs
+  - Database Design & PostgreSQL
+  - Authentication & Application Security
   - Self-Hosting & Homelab Infrastructure
-  - Automation & Productivity Tooling
+  - Automation & Developer Tooling
   - Linux Administration & DevOps
+
 currently_learning:
   - Kubernetes
   - CI/CD Pipelines
-  - Cloud Computing & IaC
+  - Cloud Computing
+  - Infrastructure as Code
+  - Advanced Backend Architecture
 ```
 
 ---
@@ -161,6 +168,6 @@ currently_learning:
 
 <div align="center">
 
-*Open to collaborations on open-source projects, self-hosting tools, and backend development.*
+*Open to collaborations on open-source projects, self-hosting tools, backend systems, automation, and practical software projects.*
 
 </div>
